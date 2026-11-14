@@ -1,0 +1,26 @@
+policy,scenario,return_q10
+adaptive,Drop 4→2,-308.0
+adaptive,ID 4,-354.1
+adaptive,OOD 8,-462.8
+adaptive,Seen 6,-408.3
+adaptive,Shock 4→8,-407.0
+base_stock,Drop 4→2,-348.1
+base_stock,ID 4,-339.1
+base_stock,OOD 8,-921.3
+base_stock,Seen 6,-518.3
+base_stock,Shock 4→8,-647.0
+fixed,Drop 4→2,-416.4
+fixed,ID 4,-364.1
+fixed,OOD 8,-1647.3
+fixed,Seen 6,-583.1
+fixed,Shock 4→8,-1019.1999999999999
+random,Drop 4→2,-601.0
+random,ID 4,-540.3
+random,OOD 8,-939.7
+random,Seen 6,-673.7
+random,Shock 4→8,-731.4
+randomized,Drop 4→2,-378.0
+randomized,ID 4,-400.1
+randomized,OOD 8,-820.1
+randomized,Seen 6,-503.59999999999997
+randomized,Shock 4→8,-583.8
