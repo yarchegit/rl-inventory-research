@@ -1,5 +1,5 @@
 # Управление запасом при сдвиге спроса
-Итоговый проект, трек 2. Ярослав Баев (`ysbaev`).
+Итоговый проект, трек 2. Ярослав Баев.
 
 [Открыть ноутбук в Colab](https://colab.research.google.com/github/yarchegit/rl-inventory-research/blob/main/RL_Final_Baev_ysbaev.ipynb)
 
